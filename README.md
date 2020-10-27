@@ -1,5 +1,3 @@
-Python practice task-Day1
-
 Hi Santhosh, please find the consolidated URL details for the day1 tasks of all participants.
  
 Jothi			        https://github.com/jojerry/AIG-Training
