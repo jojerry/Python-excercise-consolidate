@@ -12,7 +12,7 @@ Jagriti			      https://github.com/Jagriti21/Python-Exercises/blob/main/Day1/Pra
 
 Tarun			        https://github.com/tarunkumarchinni/python-excercises/tree/main/day1
 
-
+srinivas       srinivasvarma9/Day1-tasks
 
 
 
