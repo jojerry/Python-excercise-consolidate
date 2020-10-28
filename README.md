@@ -1,19 +1,13 @@
-Hi Santhosh, please find the consolidated URL details for the day1 tasks of all participants.
- 
-Jothi			        https://github.com/jojerry/AIG-Training
+# Python Training October 2020
 
-Yeshwanth Saai		https://github.com/Yeshwanth299/python/tree/main/Day_1
-
-Booja			        https://github.com/Booja97/python
-
-Ramakrishna		   https://github.com/ram326798/Python_coding
-
-Jagriti			      https://github.com/Jagriti21/Python-Exercises/blob/main/Day1/PracticeAssignment.ipynb
-
-Tarun			        https://github.com/tarunkumarchinni/python-excercises/tree/main/day1
-
-srinivas       https://github.com/srinivasvarma9/Day1-tasks
-
-
-
-
+| Name / Day | Day1 | Day 2 |
+| --- | --- | --- |
+| Jothi | [Submitted](https://github.com/sanspace/Python-excercise-consolidate.git) | |
+| Yeshwanth | [Submitted](https://github.com/Yeshwanth299/python/tree/main/Day_1) | |
+| Booja |[Submitted](https://github.com/Booja97/python) | |
+| Ram | [Submitted](https://github.com/ram326798/Python_coding) | |
+| Jagriti | [Submitted](https://github.com/Jagriti21/Python-Exercises/blob/main/Day1/PracticeAssignment.ipynb) | |
+| Tarun | [Submitted](https://github.com/tarunkumarchinni/python-excercises/tree/main/day1) | |
+| Srini | [Submitted](https://github.com/srinivasvarma9/Day1-tasks) | |
+| Gopi | Submitted (email) | |
+| Sathish | Submitted (email) | |
